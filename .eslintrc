@@ -1,9 +1,6 @@
 {
     "root": true,
     "parser": "@typescript-eslint/parser",
-    "plugins": [
-      "@typescript-eslint"
-    ],
     "rules": {
         "complexity": ["error", { "max": 5 }]
     }
